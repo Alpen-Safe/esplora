@@ -9,3 +9,9 @@ listen=1
 mempoolfullrbf=1
 blocknotify=pkill -USR1 electrs
 maxmempool=1000
+
+
+zmqpubrawtx=tcp://0.0.0.0:28332
+zmqpubrawblock=tcp://0.0.0.0:28332
+zmqpubhashblock=tcp://0.0.0.0:28332
+zmqpubhashtx=tcp://0.0.0.0:28332
