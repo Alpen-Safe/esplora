@@ -972,7 +972,7 @@ table th {
 
 /* HEADER END */
 
-body > .container, .navbar > .container, > .container, .content-wrap > div > .container, footer > .container {
+body > .container, .navbar > .container, body > .container, .content-wrap > div > .container, footer > .container {
   max-width: 1000px;
 }
 
@@ -3359,7 +3359,7 @@ h3.table-title{
 }
 
 .pricing-table-row {
-  gap: 30px;
+  gap: 17px;
   margin: 4px 0;
 }
 
